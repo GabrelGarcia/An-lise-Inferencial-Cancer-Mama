@@ -1,7 +1,4 @@
-# Analise-Inferencial-Cancer-Mama
-O objetivo deste trabalho é aplicar os principais conceitos estudados na disciplina de Análise Inferencial em um problema real. 
-
-# 📊 Inferência Estatística Aplicada ao Diagnóstico de Cancro da Mama
+# 📊 Inferência Estatística Aplicada ao Diagnóstico de Cancer de Mama
 
 Este repositório contém o trabalho prático desenvolvido para a disciplina de **Análise Inferencial (Inferência Estatística e Ciência de Dados)**. O objetivo principal do estudo é aplicar conceitos de estimação e testes de hipóteses a um problema real da área da saúde, utilizando uma abordagem estatística comparativa simples e rigorosa.
 
